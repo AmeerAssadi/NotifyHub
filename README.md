@@ -1,2 +1,2 @@
 # NotifyHub
-A simple script the sends github notifications to slack
+A simple script that sends github notifications to slack
